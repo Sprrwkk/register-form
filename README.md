@@ -13,7 +13,7 @@
 
 3. Install all dependencies by composer 
 
-    * ``composer install``
+    * ``composer install --ignore-platform-reqs``
     
 4. Configure environment settings and generate Application Key    
 
